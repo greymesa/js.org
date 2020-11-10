@@ -195,6 +195,7 @@ var cnames_active = {
   "arthurmbandeira": "arthurmbandeira.github.io",
   "artitalk": "artitalkjs.github.io/docs",
   "asdivyansh": "asdivyansh.github.io",
+  "ashhnry": "yeetedmeme.github.io",
   "ass": "weizhenye.github.io/ASS",
   "ass-editor": "jeff-tian.github.io/ass",
   "assembly-line": "rubenverg.github.io/assembly-line.js",
@@ -2647,6 +2648,7 @@ var cnames_active = {
   "yake": "yakeing.github.io/HexoBlog",
   "yamdbf": "zajrik.github.io/yamdbf",
   "yargs": "yargs.github.io", // noCF? (don´t add this in a new PR)
+  "yeetedmeme": "yeetedmeme.github.io",
   "yeisson-osorno": "yeissonosorno.github.io/portfolio",
   "yennj12": "yennanliu.github.io",
   "yf": "yafey.coding.me",
